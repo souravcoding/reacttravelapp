@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reacttravelapp/static/css/main.e70d4248.chunk.css",
+    "main.js": "/reacttravelapp/static/js/main.183cfb84.chunk.js",
+    "main.js.map": "/reacttravelapp/static/js/main.183cfb84.chunk.js.map",
+    "runtime-main.js": "/reacttravelapp/static/js/runtime-main.3d9e20f4.js",
+    "runtime-main.js.map": "/reacttravelapp/static/js/runtime-main.3d9e20f4.js.map",
+    "static/js/2.8669ffdb.chunk.js": "/reacttravelapp/static/js/2.8669ffdb.chunk.js",
+    "static/js/2.8669ffdb.chunk.js.map": "/reacttravelapp/static/js/2.8669ffdb.chunk.js.map",
+    "index.html": "/reacttravelapp/index.html",
+    "static/css/main.e70d4248.chunk.css.map": "/reacttravelapp/static/css/main.e70d4248.chunk.css.map",
+    "static/js/2.8669ffdb.chunk.js.LICENSE.txt": "/reacttravelapp/static/js/2.8669ffdb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reacttravelapp/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-6.047226b0.jpg": "/reacttravelapp/static/media/img-6.047226b0.jpg",
+    "static/media/img-7.dfeef525.jpg": "/reacttravelapp/static/media/img-7.dfeef525.jpg",
+    "static/media/img-9.f97f588f.jpg": "/reacttravelapp/static/media/img-9.f97f588f.jpg",
+    "static/media/video-1.59e75226.mp4": "/reacttravelapp/static/media/video-1.59e75226.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d9e20f4.js",
+    "static/js/2.8669ffdb.chunk.js",
+    "static/css/main.e70d4248.chunk.css",
+    "static/js/main.183cfb84.chunk.js"
+  ]
+}
